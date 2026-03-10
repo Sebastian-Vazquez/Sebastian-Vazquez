@@ -20,16 +20,19 @@
 <p align="center">
 <br/>
 
-
-<a href="[https://github.com/AVS1508](https://github.com/Sebastian-Vazquez)">
-  <img height="110em" src="https://github-readme-stats.vercel.app/api?username=Sebastian-Vazquez&theme=dark&show_icons=true&hide_border=true" /> 
+<a href="https://github.com">
+  <!-- GitHub Readme Stats (Generalmente estable) -->
+  <img height="110em" src="https://github-readme-stats.vercel.app" /> 
   
-  <img height="110em" src="https://github-readme-streak-stats.herokuapp.com/?user=Sebastian-Vazquez&theme=dark&hide_border=true" />
+  <!-- GitHub Streak Stats (Cambiado a dominio estable .demolab.com) -->
+  <img height="110em" src="https://streak-stats.demolab.com" />
    
   <br>
-  <img height="110em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sebastian-Vazquez&theme=dark&hide_border=false" />
+  <!-- Profile Summary Card (Nota: Si esta sigue fallando, se recomienda usar GitHub Actions) -->
+  <img height="110em" src="https://github-profile-summary-cards.vercel.app" />
   
-  <img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sebastian-Vazquez&theme=dark&layout=compact&hide_border=true" />
+  <!-- Top Langs (Generalmente estable) -->
+  <img height="110em" src="https://github-readme-stats.vercel.app" />
 </a>
 </p>
 
