@@ -20,19 +20,16 @@
 <p align="center">
 <br/>
 
-<a href="https://github.com">
-  <!-- 1. Stats (ESTA FUNCIONABA - NO TOCAR) -->
-  <img height="110em" src="https://github-readme-stats.vercel.app" /> 
+
+<a href="[https://github.com/AVS1508](https://github.com/Sebastian-Vazquez)">
+  <img height="110em" src="https://github-readme-stats.vercel.app/api?username=Sebastian-Vazquez&theme=dark&show_icons=true&hide_border=true" /> 
   
-  <!-- 2. Streaks (CORREGIDA: Usando el nuevo dominio oficial de DenverCoder1) -->
-  <img height="110em" src="https://streak-stats.demolab.com" />
+  <img height="110em" src="https://github-readme-streak-stats.herokuapp.com/?user=Sebastian-Vazquez&theme=dark&hide_border=true" />
    
   <br>
-  <!-- 3. Profile Summary Cards (CORREGIDA: Forzando protocolo HTTPS y quitando bordes) -->
-  <img height="110em" src="https://github-profile-summary-cards.vercel.app" />
+  <img height="110em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sebastian-Vazquez&theme=dark&hide_border=false" />
   
-  <!-- 4. Top Langs (ESTA FUNCIONABA - NO TOCAR) -->
-  <img height="110em" src="https://github-readme-stats.vercel.app" />
+  <img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sebastian-Vazquez&theme=dark&layout=compact&hide_border=true" />
 </a>
 </p>
 
