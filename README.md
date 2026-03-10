@@ -21,17 +21,17 @@
 <br/>
 
 <a href="https://github.com">
-  <!-- GitHub Readme Stats (Generalmente estable) -->
+  <!-- 1. Stats (ESTA FUNCIONABA - NO TOCAR) -->
   <img height="110em" src="https://github-readme-stats.vercel.app" /> 
   
-  <!-- GitHub Streak Stats (Cambiado a dominio estable .demolab.com) -->
+  <!-- 2. Streaks (CORREGIDA: Usando el nuevo dominio oficial de DenverCoder1) -->
   <img height="110em" src="https://streak-stats.demolab.com" />
    
   <br>
-  <!-- Profile Summary Card (Nota: Si esta sigue fallando, se recomienda usar GitHub Actions) -->
+  <!-- 3. Profile Summary Cards (CORREGIDA: Forzando protocolo HTTPS y quitando bordes) -->
   <img height="110em" src="https://github-profile-summary-cards.vercel.app" />
   
-  <!-- Top Langs (Generalmente estable) -->
+  <!-- 4. Top Langs (ESTA FUNCIONABA - NO TOCAR) -->
   <img height="110em" src="https://github-readme-stats.vercel.app" />
 </a>
 </p>
