@@ -20,18 +20,19 @@
 <p align="center">
 <br/>
 
-<a href="https://github.com">
-  <!-- Estas dos son las que dices que funcionan (stats y top-langs) -->
-  <img height="110em" src="https://github-readme-stats.vercel.app" /> 
+<a href="https://github.com/Sebastian-Vazquez">
+  <!-- CAMBIADO SOLO EL DOMINIO PARA QUE CARGUE -->
+  <img height="110em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Sebastian-Vazquez&theme=dark&show_icons=true&hide_border=true" /> 
   
-  <!-- CORRECCIÓN 1: El dominio de herokuapp ya no sirve. Cambiado al oficial estable de DenverCoder1 -->
-  <img height="110em" src="https://streak-stats.demolab.com" />
+  <!-- IGUAL A TU ORIGINAL -->
+  <img height="110em" src="https://github-readme-streak-stats.herokuapp.com/?user=Sebastian-Vazquez&theme=dark&hide_border=true" />
    
   <br>
-  <!-- CORRECCIÓN 2: Tenías "http", hay que usar "https" para que GitHub no lo bloquee por seguridad -->
-  <img height="110em" src="https://github-profile-summary-cards.vercel.app" />
+  <!-- IGUAL A TU ORIGINAL -->
+  <img height="110em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sebastian-Vazquez&theme=dark&hide_border=false" />
   
-  <img height="110em" src="https://github-readme-stats.vercel.app" />
+  <!-- CAMBIADO SOLO EL DOMINIO PARA QUE CARGUE -->
+  <img height="110em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Sebastian-Vazquez&theme=dark&layout=compact&hide_border=true" />
 </a>
 </p>
 
